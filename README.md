@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohitgaur1272
 - 🚀 DevOps Engineer | Continuous Integration & Deployment | Infrastructure as Code 🛠️
 - 👀 I’m interested in devops methodology and i love this methodology.
-- 🌱 I’m currently working as a devops engineer in w3itexperts pvt.ltd.
+- 🌱 I’m currently working as a devops engineer in upflirs pvt.ltd.
 - 💞️ I’m believe to collaborate on in my team for my work.
 
 🔧 Tech Stack:
